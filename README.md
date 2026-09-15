@@ -29,7 +29,7 @@ I work at the intersection of **Cloud Engineering, DevOps, Networking, Infrastru
 ---
 
 ## `03` — BUILD → DEPLOY → OBSERVE
-<div align="center"><img src="./assets/pipeline.svg" alt="Animated engineering pipeline" width="90%"></div>
+<div align="center"><img src="./assets/pipeline.svg" alt="Engineering pipeline" width="90%"></div>
 
 ## `04` — FEATURED SYSTEMS
 
@@ -59,15 +59,15 @@ DMT · OFDM · OFDMA · 5G numerology · Cyclic Prefix · Resource Blocks · PAP
 
 ## `05` — GITHUB ACTIVITY
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eng-ahmedradi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmedradi&layout=compact&hide_border=true&langs_count=8" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=eng-ahmedradi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmedradi&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages">
 <br><br>
-<img src="https://streak-stats.demolab.com?user=eng-ahmedradi&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=eng-ahmedradi&hide_border=true" alt="GitHub streak stats">
 </div>
 
 ## `06` — CONTRIBUTION MOTION
 <div align="center">
-<img src="./dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+<img src="https://raw.githubusercontent.com/eng-ahmedradi/eng-ahmedradi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
 </div>
 
 ## `07` — ENGINEERING LAB
