@@ -1,77 +1,103 @@
 <div align="center">
-
-# Ahmed Radi El-Refaei
-
-### Cloud • DevOps • Networking • Automation
-
-**Communication & Networks Engineering Student · Egypt · Expected Graduation 2027**
-
-Building infrastructure, automating systems, and turning architectures into running software.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-eng--ahmedradi-181717?style=for-the-badge&logo=github)](https://github.com/eng-ahmedradi)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-ahmedradii-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ahmedradii)
-
+<img src="./assets/hero.gif" alt="Ahmed Radi animated header" width="100%">
+<img src="./assets/terminal.gif" alt="Animated terminal" width="90%">
 </div>
 
----
+# AHMED RADI EL-REFAEI
+### Cloud • DevOps • Networking • Automation
 
-## Current Focus
+Communication & Networks Engineering Student · Expected Graduation 2027
 
-```text
-Cloud        ● Active
-DevOps       ● Building
-Kubernetes   ● Building
-Networking   ● Active
-Automation   ● Exploring
-Backend      ● Building
-AI / ML      ● Exploring
-```
+> Building infrastructure, automating systems, and turning architectures into running software.
 
 ---
 
-## What I Build
-
+## `01` — ENGINEERING IDENTITY
 I work at the intersection of **Cloud Engineering, DevOps, Networking, Infrastructure, and Software**.
-
-I like moving systems through the full path:
 
 `Architecture → Code → Container → Deployment → Operations`
 
----
+## `02` — TECH STACK
+**Cloud & DevOps:** AWS · Docker · Docker Compose · Kubernetes · GitHub Actions · CI/CD · Linux · Terraform · Docker Hub
 
-## Featured Work
+**Networking:** CCNA · VLANs · STP · EtherChannel · DHCP · IPv4/IPv6 · OSPF · BGP · EIGRP · NAT/PAT · ACL · VPN · Wireless · QoS · Packet Tracer · GNS3
 
-- **E-Commerce DevOps & Cloud Deployment**  
-  Docker, Docker Compose, Kubernetes, AWS, Flask, PostgreSQL, Nginx
+**Development:** C · Python · Java · JavaScript · HTML · CSS · PHP · Node.js · Flask · Spring Boot · MySQL · PostgreSQL · SQL · REST APIs
 
-- **Secure Smart Banking Platform**  
-  Spring Boot, Docker, Java 17, deployment workflow, repository integration
-
-- **Networking & Cisco Labs**  
-  VLANs, OSPF, routing, ACLs, wireless, segmentation, security
-
-- **OFDM / 5G Engineering**  
-  MATLAB, Simulink, communications systems, physical layer research
+**Engineering / Data:** MATLAB · Simulink · XGBoost · Random Forest · LightGBM · SMOTE · PCA · Matplotlib
 
 ---
 
-## Engineering Roadmap
+## `03` — BUILD → DEPLOY → OBSERVE
+<div align="center"><img src="./assets/pipeline.svg" alt="Animated engineering pipeline" width="90%"></div>
 
-- Cloud Engineering
-- DevOps
-- Kubernetes
-- Infrastructure as Code
-- Networking
-- Automation
-- System Design
+## `04` — FEATURED SYSTEMS
+
+### 🛒 Simple Store — E-Commerce DevOps & Cloud Deployment
+**Nginx Frontend → Flask Backend → PostgreSQL**
+
+Dockerized frontend/backend/database, Docker Compose, health and products API verification, Docker Hub publishing, and Kubernetes deployment work.
+
+```text
+ecommerce-frontend:1.0
+ecommerce-backend:1.0
+ecommerce-db:1.0
+```
+
+### 🏦 Secure Smart Banking Platform
+**Frontend → Spring Boot Backend → H2 / AI Service**
+
+Java 17 · Spring Boot · Maven · H2 · Docker · Git · GitHub. Includes containerization, repository/branch workflows, infrastructure organization, and deployment preparation.
+
+### 🌐 Networking & Cisco Labs
+VLANs · Router-on-a-Stick · Layer 3 Switching · STP · EtherChannel · DHCP · IPv6 · OSPF · ACL · NAT/PAT · Wireless · WLC · IoT segmentation
+
+### 📡 OFDM / DMT / 5G Engineering
+DMT · OFDM · OFDMA · 5G numerology · Cyclic Prefix · Resource Blocks · PAPR · DFT-s-OFDM · FFT/IFFT · QAM · AWGN · MATLAB/Simulink
 
 ---
 
-## Connect
+## `05` — GITHUB ACTIVITY
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eng-ahmedradi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmedradi&layout=compact&hide_border=true&langs_count=8" height="165">
+<br><br>
+<img src="https://streak-stats.demolab.com?user=eng-ahmedradi&hide_border=true">
+</div>
 
-- GitHub: [eng-ahmedradi](https://github.com/eng-ahmedradi)
-- Docker Hub: [ahmedradii](https://hub.docker.com/u/ahmedradii)
+## `06` — CONTRIBUTION MOTION
+<div align="center">
+<img src="./dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</div>
 
+## `07` — ENGINEERING LAB
+```text
+CLOUD          → AWS / IAM / VPC / EC2 / S3 / CloudWatch
+DEVOPS         → Docker / CI/CD / GitHub Actions
+ORCHESTRATION  → Kubernetes / Services / Deployments
+NETWORKING     → Cisco / Routing / Switching / Wireless
+INFRASTRUCTURE → Linux / Terraform / VMware
+SOFTWARE       → Python / Java / Node.js / REST
+AI / DATA      → ML experiments / XGBoost / PCA
+```
+
+## `08` — TRAINING
+- CCNA Training
+- NTI Cloud Essentials
+- Huawei Cloud Essential Developer / HCCDA-related cloud training
+
+## `09` — ROADMAP
+`Cloud ████████████████░░░░`  
+`DevOps ████████████████░░░░`  
+`Kubernetes ██████████████░░░░░░`  
+`IaC ███████████░░░░░░░░░`  
+`Networking █████████████████░░░`  
+`Automation ███████████░░░░░░░░░`
+
+## `10` — CONNECT
+<div align="center">
+<a href="https://github.com/eng-ahmedradi">GitHub</a> ·
+<a href="https://hub.docker.com/u/ahmedradii">Docker Hub</a>
+<br><br>
+<img src="./assets/hero.gif" alt="Animated footer" width="80%">
 </div>
